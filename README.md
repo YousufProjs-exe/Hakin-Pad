@@ -1,4 +1,4 @@
-###Hakin Pad™
+# Hakin Pad™
 
 A small custom macropad designed from scratch with KiCad.
 
