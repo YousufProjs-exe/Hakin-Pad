@@ -3,7 +3,7 @@ Hakin Pad™
 A small custom macropad designed from scratch with KiCad.
 
 
-Hakin Pad™ 
+Hakin Pad™ \n
 Designed on a screen. 
 Built on a desk. 
 A few commands. 
