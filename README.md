@@ -2,6 +2,8 @@ Hakin Pad™
 
 A small custom macropad designed from scratch with KiCad.
 
+![Preview](Screenshots/Whiteboard.png)
+
 Hakin Pad™ is my second hardware project and my first time properly taking a keyboard-style PCB through the full design process. The goal is to build a simple, useful pad with physical buttons, a rotary encoder, and a small OLED display, while keeping the design compact and easy to understand.
 
 What I'm Building
