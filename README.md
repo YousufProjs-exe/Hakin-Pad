@@ -2,14 +2,14 @@ Hakin Pad™
 
 A small custom macropad designed from scratch with KiCad.
 
---
-Hakin Pad™
-Designed on a screen.
-Built on a desk.
-A few commands.
-A lot of buttons. And
-Some productive copper too.
---
+
+Hakin Pad™ 
+Designed on a screen. 
+Built on a desk. 
+A few commands. 
+A lot of buttons. And 
+Some productive copper too. 
+
 
 ![Preview](Screenshots/Whiteboard.png)
 
