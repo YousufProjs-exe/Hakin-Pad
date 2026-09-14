@@ -11,7 +11,7 @@ A lot of buttons. And
 Some productive copper too.
 --
 
-![Preview](Screenshots/Screenshot 2026-09-14 224147.png)
+![Preview](Screenshots/NEW.png)
 
 Hakin Pad™ is my second hardware project and my first time properly taking a keyboard-style PCB through the full design process. The goal is to build a simple, useful pad with physical buttons, a rotary encoder, and a small OLED display, while keeping the design compact and easy to understand.
 
