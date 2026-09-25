@@ -1,5 +1,5 @@
 Hakin Pad™
-
+[**README & the WHOLE build is indeed whole done by me(Yousuf) only and the AI used is as per regulations are mentioned in the project description.**]
 A small custom macropad designed from scratch with KiCad.
 
 --
