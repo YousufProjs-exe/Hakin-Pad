@@ -1,4 +1,4 @@
-Hakin Pad™
+## Hakin Pad™
 [**README & the WHOLE build is indeed whole done by me(Yousuf) only and the AI used is as per regulations are mentioned in the project description.**]
 A small custom macropad designed from scratch with KiCad.
 
@@ -11,64 +11,44 @@ A lot of buttons. And
 Some productive copper too.
 --
 
-![Preview](Screenshots/NEW.png)
+# Hakin Pad™
 
-Hakin Pad™ is my second hardware project and my first time properly taking a keyboard-style PCB through the full design process. The goal is to build a simple, useful pad with physical buttons, a rotary encoder, and a small OLED display, while keeping the design compact and easy to understand.
+ Designed on a screen.  
+ Built on a desk.
 
-What I'm Building
+Hakin Pad™ is my second hardware project and my first custom macropad, designed from scratch in KiCad.
 
-The current design includes:
+It features a XIAO RP2040, physical keys, two rotary encoders, a 0.91" I2C OLED, a custom PCB, and a custom 3D-printed case.
 
-XIAO RP2040 as the main controller
-Multiple physical buttons
-Rotary encoder with push function
-0.91" I2C OLED display
-Custom PCB
-Custom 3D-printed case
-Custom firmware
+![Hakin Pad Preview](Screenshots/pcb_ss.png)
 
-The board is being designed specifically for this project rather than using an existing macropad design.
+## Features
 
-Current Progress
+- XIAO RP2040
+- 7 physical keys
+- 2 rotary encoders with push switches
+- 0.91" I2C OLED display
+- Custom PCB designed in KiCad
+- Custom 3D-printed case
+- Custom firmware
 
-The schematic is currently being developed in KiCad. I've already connected the main components and started preparing the design for the PCB stage.
+## Files
 
-I'm also experimenting with a larger number of buttons instead of stopping at the initial three-button setup.
+- `PCB/` — KiCad schematic, PCB and fabrication files
+- `CAD/` — 3D case files
+- `Firmware/` — firmware
+- `production/` — production files
+- `Screenshots/` — project images
 
-The next major steps are:
+## Tools
 
-Finish footprint selection
-Move the design into PCB Editor
-Arrange the components
-Design the PCB outline
-Route the board
-Run ERC and DRC
-Design the case
-Write the firmware
-Test and revise the design
-Prepare the final production files
-Why Hakin Pad?
+- KiCad
+- FreeCAD
+- CircuitPython / KMK
+- Git & GitHub
 
-I wanted to make something physical instead of another purely software-based project.
+## Status
 
-The idea is simple:
+**Design complete — ready for production.**
 
-Designed on a screen.
-Built on a desk.
-A few commands.
-A lot of buttons.
-Some productive copper too.
-
-Tools
-KiCad
-XIAO RP2040
-QMK / custom firmware work
-3D printing
-GitHub
-Project Status
-
-In development
-
-This repository will contain the PCB, CAD, firmware, and production files as the project progresses.
-
-More work coming soon.
+This project was designed and documented by me, Yousuf. AI assistance was used only where permitted by the project/program rules.
