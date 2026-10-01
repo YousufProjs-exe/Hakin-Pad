@@ -20,7 +20,7 @@ Hakin Pad™ is my second hardware project and my first custom macropad, designe
 
 It features a XIAO RP2040, physical keys, two rotary encoders, a 0.91" I2C OLED, a custom PCB, and a custom 3D-printed case.
 
-![Hakin Pad Preview](Screenshots/pcb_ss.png)
+![Hakin Pad Preview](cart.png)
 
 ## Features
 
